@@ -50,9 +50,9 @@ Welcome to my GitHub profile! I'm passionate about building efficient, user-cent
 
 ---
 
-## 🔗 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/muhammad-alfaz-74a173208)
-- [Instagram](https://www.instagram.com/muh_alfaz_)
-- [Personal Website / Blog](https://alfaz86.github.io)
+## 🔗 Let's Connect!  
+[![in/muhammad-alfaz](https://img.shields.io/badge/in%2Fmuhammad--alfaz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-alfaz)<br>
+[![muh_alfaz_](https://img.shields.io/badge/muh__alfaz__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muh_alfaz_)<br>
+[![alfaz86.github.io](https://img.shields.io/badge/alfaz86.github.io-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://alfaz86.github.io)
 
 Thanks for visiting my profile! Looking forward to connecting with other devs and creating amazing projects together. 😊
