@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about building efficient, user-cent
 - 👯 I’m open to collaborating on Web Development Projects, Open-source Projects, etc.
 - 💬 Ask me about web applications, tech, and more.
 - 📫 How to reach me: [mhdalfaz18@gmail.com](mailto:mhdalfaz18@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-alfaz-74a173208).
-- 📂 Check out my portfolio: [alfaz86.github.io](https://mhdalfaz18@gmail.com)
+- 📂 Check out my portfolio: [alfaz86.github.io](https://alfaz86.github.io)
 
 ---
 
