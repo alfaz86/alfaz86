@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm passionate about building efficient, user-cent
 - 👯 I’m open to collaborating on Web Development Projects, Open-source Projects, etc.
 - 💬 Ask me about web applications, tech, and more.
 - 📫 How to reach me: [mhdalfaz18@gmail.com](mailto:mhdalfaz18@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-alfaz-74a173208).
+- 📂 Check out my portfolio: [alfaz86.github.io](https://mhdalfaz18@gmail.com)
 
 ---
 
@@ -27,7 +28,7 @@ Welcome to my GitHub profile! I'm passionate about building efficient, user-cent
 
 ### Frontend Frameworks
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-05122A?style=flat&logo=nuxt.js)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-05122A?style=flat&logo=nuxt)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)
 
@@ -44,9 +45,10 @@ Welcome to my GitHub profile! I'm passionate about building efficient, user-cent
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alfaz86&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+| GitHub Streak                                                                 | Top Languages                                                                      |
+| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alfaz86&theme=dracula&hide_border=true)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfaz86&theme=dracula&layout=donut&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfaz86&theme=dracula&layout=donut&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
