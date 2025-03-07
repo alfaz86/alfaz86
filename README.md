@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm passionate about building efficient, user-cent
 
 | GitHub Streak                                                                 | Top Languages                                                                      |
 | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alfaz86&theme=dracula&hide_border=true)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfaz86&theme=dracula&layout=donut&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+| [![GitHub Streak](https://github-readme-streak-stats-two-virid.vercel.app?user=alfaz86&theme=dracula&hide_border=true)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfaz86&theme=dracula&layout=donut&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
 
 
 ---
