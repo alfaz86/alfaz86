@@ -25,14 +25,14 @@ Welcome to my GitHub profile! I'm passionate about building efficient, user-cent
 ### Backend Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-05122A?style=flat&logo=laravel)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-05122A?style=flat&logo=codeigniter)
-![Express.js](https://img.shields.io/badge/Express.js-05122A?style=flat&logo=express)
+![Express](https://img.shields.io/badge/Express-05122A?style=flat&logo=express)
 ![NestJS](https://img.shields.io/badge/NestJS-05122A?style=flat&logo=nestjs)
 ![Gin](https://img.shields.io/badge/Gin-05122A?style=flat&logo=gin)
 
 ### Frontend Frameworks
 ![Expo](https://img.shields.io/badge/Expo-05122A?style=flat&logo=expo)
 ![Next.js](https://img.shields.io/badge/Next.js-05122A?style=flat&logo=next.js)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-05122A?style=flat&logo=nuxt)
+![Nuxt](https://img.shields.io/badge/Nuxt-05122A?style=flat&logo=nuxt)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)
 
@@ -43,11 +43,12 @@ Welcome to my GitHub profile! I'm passionate about building efficient, user-cent
 ![Redis](https://img.shields.io/badge/Redis-05122A?style=flat&logo=redis)
 
 ### DevOps & Infrastructure
-![Linux Server](https://img.shields.io/badge/Linux%20Server-05122A?style=flat&logo=linuxserver)
+![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)
 ![Nginx](https://img.shields.io/badge/Nginx-05122A?style=flat&logo=nginx)
-![Google Cloud](https://img.shields.io/badge/Google%20cloud-05122A?style=flat&logo=googlecloud)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-05122A?style=flat&logo=googlecloud)
 ![Digital Ocean](https://img.shields.io/badge/Digital%20Ocean-05122A?style=flat&logo=digitalocean)
 ![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)
+![Vercel](https://img.shields.io/badge/Vercel-05122A?style=flat&logo=vercel)
 
 ---
 
