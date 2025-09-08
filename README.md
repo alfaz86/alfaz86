@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about building efficient, user-cent
 - 👯 I’m open to collaborating on Web Development Projects, Open-source Projects, etc.
 - 💬 Ask me about web applications, tech, and more.
 - 📫 How to reach me: [mhdalfaz18@gmail.com](mailto:mhdalfaz18@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-alfaz-74a173208).
-- 📂 Check out my portfolio: [alfaz86.github.io](https://alfaz86.github.io)
+- 📂 Check out my portfolio: [mhdalfaz.github.io](https://mhdalfaz.github.io)
 
 ---
 
@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I'm passionate about building efficient, user-cent
 
 | GitHub Streak                                                                 | Top Languages                                                                      |
 | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| [![GitHub Streak](https://github-readme-streak-stats-two-virid.vercel.app?user=alfaz86&theme=dracula&hide_border=true)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfaz86&theme=dracula&layout=donut&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+| [![GitHub Streak](https://github-readme-streak-stats-two-virid.vercel.app?user=mhdalfaz&theme=dracula&hide_border=true)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdalfaz&theme=dracula&layout=donut&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
 
 
 ---
@@ -65,6 +65,6 @@ Welcome to my GitHub profile! I'm passionate about building efficient, user-cent
 [![mhdalfaz18@gmail.com](https://img.shields.io/badge/mhdalfaz18@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhdalfaz18@gmail.com)<br>
 [![in/muhammad-alfaz](https://img.shields.io/badge/in%2Fmuhammad--alfaz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-alfaz-74a173208)<br>
 [![muh_alfaz_](https://img.shields.io/badge/muh__alfaz__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muh_alfaz_)<br>
-[![alfaz86.github.io](https://img.shields.io/badge/alfaz86.github.io-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://alfaz86.github.io)
+[![mhdalfaz.github.io](https://img.shields.io/badge/mhdalfaz.github.io-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://mhdalfaz.github.io)
 
 Thanks for visiting my profile! Looking forward to connecting with other devs and creating amazing projects together. 😊
